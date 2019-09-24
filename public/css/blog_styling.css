@@ -1,0 +1,74 @@
+.body{
+    background-color: #E3F2FD;
+}
+.bg-darkblue
+{
+	background-color: #1565C0!important;
+}
+.color-white{
+	color:#fff !important;
+}
+.col-form-label.color-blue,
+.form-check-label.color-blue,label{
+	 color: #0D47A1 !important;
+}
+.card-header.header{
+	    background: #1976D2;
+    color: #fff !important;
+}
+.dropdown-menu.dropdown-design{
+	border-radius: 0;
+    position: absolute;
+    top: 2em;
+padding:unset;
+}
+.dropdown-item.item{
+	border-bottom: 1px solid #E3F2FD;
+}
+/*home style*/
+.avatar{
+   border: 1px solid #0D47A1;
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  .lead{
+   
+    border: 1px solid #BBDEFB;
+    color: #fff;
+    background: #90CAF9;
+    border-radius: 20px;
+    margin-top: 5px;
+  }
+  .alignright{
+    margin-bottom: 1em;
+    width:300px;
+    height:300px;
+    border-radius: 8px;
+  }
+  .btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+
+  }
+  .btn-default.btn-new{
+    margin-left: -3px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+  .comment{
+  	text-align: initial;
+    border-bottom: 1px solid #7E57C2;
+    background: #EDE7F6;
+  }
+  .lead-comment{
+  	    border: 1px solid #EDE7F6;
+    color: #fff;
+    background: #673AB7;
+    border-radius: 20px;
+    margin-top: 5px;
+        padding: 5px;
+  }
